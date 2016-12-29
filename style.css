@@ -1,0 +1,24 @@
+#words{
+  text-align: center;
+  border:1px solid black;
+  width:100%;
+  }
+table td {
+
+  text-align: center;
+  padding:10px;
+
+}
+#words table{
+  display:inline-block;
+  vertical-align: top;
+
+}
+#generate-button{
+  padding:8px;
+  margin:15px;
+}
+
+#rap{
+  text-align:center;
+}
