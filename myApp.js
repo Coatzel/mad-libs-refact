@@ -7,7 +7,7 @@
 		  $scope.myFunc = function () {
 		      $scope.myTxt = "You clicked submit!";
 
-    			console.log($scope.libs);
+    			console.log($scope);
 
 				}
 						  });
