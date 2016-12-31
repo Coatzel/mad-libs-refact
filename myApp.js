@@ -8,12 +8,7 @@
 
 
 
-			console.log($scope);
-		  $scope.myTxt = "You have not yet clicked submit";
-
-			$scope.myFunc = function () {
-		      $scope.myTxt = "You clicked submit!";
-					}
+		
 
 
 
